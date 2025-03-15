@@ -75,5 +75,5 @@
 
 ---
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Chiragpkumar&icon=0&color=0" alt="Profile Views" />
+  <img src="https://avatars.githubusercontent.com/u/107939702?v=4" />
 </div>
