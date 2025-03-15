@@ -73,7 +73,3 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/Chiragpkumar)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chiragpkumar@gmail.com)
 
----
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/107939702?v=4" />
-</div>
